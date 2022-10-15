@@ -1,0 +1,32 @@
+.heading{
+    text-shadow: 3px 4px 5px rgb(188, 161, 161);
+    text-align: center;
+    margin-top: 40px;
+    font-family: cursive;
+    font-size: 70px;
+    
+}
+.heading1{
+    
+    text-shadow: 3px 4px 5px rgb(188, 161, 161);
+    text-align: center;
+    margin-top: 40px;
+    
+}
+.card{
+    float: left;
+    margin-left: 100px;
+    margin-top: 70px;
+    margin-right: 50px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 20px;
+    
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card:hover{
+    box-shadow: 3px 4px 6px black;
+}
